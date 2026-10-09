@@ -1,0 +1,10 @@
+姓名：[NAME]
+职位：[POSITION]
+邮箱：[EMAIL]
+技能：[SKILLS]
+
+工作经验：
+[EXPERIENCE]
+
+教育背景：
+[EDUCATION]

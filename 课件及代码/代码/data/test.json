@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "张三",
+      "age": 28,
+      "email": "zhangsan@example.com",
+      "is_active": true,
+      "join_date": "2022-03-15"
+    },
+    {
+      "id": 2,
+      "name": "李四",
+      "age": 35,
+      "email": "lisi@example.com",
+      "is_active": false,
+      "join_date": "2021-11-02"
+    },
+    {
+      "id": 3,
+      "name": "王五",
+      "age": 24,
+      "email": "wangwu@example.com",
+      "is_active": true,
+      "join_date": "2023-01-20"
+    }
+  ],
+  
+  "logs": [
+    {
+      "timestamp": "2024-06-01T10:15:30Z",
+      "level": "info",
+      "message": "System initialized successfully."
+    },
+    {
+      "timestamp": "2024-06-01T10:20:45Z",
+      "level": "warning",
+      "message": "User 李四 attempted to access restricted area."
+    },
+    {
+      "timestamp": "2024-06-01T10:25:00Z",
+      "level": "error",
+      "message": "Database connection failed."
+    }
+  ],
+
+  "metadata": {
+    "version": "1.0.0",
+    "last_updated": "2024-06-01"
+  },
+
+  "settings": {
+    "theme": "dark",
+    "notifications": true,
+    "language": "zh-CN"
+  }
+}
